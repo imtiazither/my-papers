@@ -1,0 +1,14 @@
+d2e13f1aeac9adfcd41b97a0380fe082007db558646dd642950ddfba9aa66447  papers/A-Strategic-Framework-for-Trustworthy-AI-Augmented-Decision-Intelligence.pdf
+2cba4476f559e18ab9d5dd890cca609c049e51ce901115d72875cfdaa1044365  papers/AI-and-Blockchain-Integration-Driving-Strategic-Business-Advancements-in-the-Intelligent-Era.pdf
+60aad2b9d602a995dc29f87a884abc75ab4da8542991485a25c457fcefe6d5c6  papers/Data-Driven-Dashboards-for-Enhancing-Investor-Reporting-Transparency-in-American-Capital-Markets.pdf
+222619c04ca54b723521bf9e12ff1e4e13e6053191315529cd478eac02814c40  papers/ESP32-S3-Based-TinyML-Framework-with-FMCW-Radar-and-Event-Driven-Vision-for-Low-Power-Teaching-Activity-Recognition.pdf
+e6397032b88f1ac7886b91c0c0f15d677de5090c39e7c400097e57ee2102b65c  papers/Edge-AI-Driven-Teaching-Activity-Monitoring-A-Privacy-Preserving-and-Energy-Efficient-Framework-for-Rural-Governance.pdf
+4c05b63a70531cc6828b3fdaeed67bb736674085f0a3956cd34254c3f4ec3802  papers/Embracing-Data-Driven-Process-Optimization-to-Highly-Transform-Instructional-Administration-in-Higher-Education-Institutions.pdf
+ad4b305e7d6fd7d447ab7d4d905ed25d9bcc2b9d25b2dc69c54a866a8d83bb2f  papers/From-Prediction-to-Support-An-Equity-Centered-Adaptive-Learning-Analytics-Framework-for-Workforce-Readiness.pdf
+5d013276398c2dde6e349bc07828427abcd41cfc81568f96979d8771e64fd8c6  papers/From-Risk-Registers-to-Uncertainty-Observatories-Managing-Shadow-Generative-AI-Innovation-Under-High-Risk-and-High-Uncertainty.pdf
+9005d50746a5c34b6766b2633a1043dfaacc00074fc5f1a1fa69e3dc1dcb5f7e  papers/Governance-Readiness-Beyond-Predictive-Performance-An-Empirical-Benchmark-for-Higher-Education-Early-Warning-Systems.pdf
+f6f4f0b1a00561ebccd286ad8725357b3252eca9cb992d83033ae5eb7dc44a68  papers/Learner-Risk-Analytics-for-Workforce-Oriented-Postsecondary-Pathways-A-Pre-Pilot-Evaluation-Framework.pdf
+0ee1da8a23831a407296a95ea871da30a9444c5d61cdf378cc882be88a1dfa7d  papers/Leveraging-AI-for-Data-Driven-Decision-Making-and-Automation-in-the-USA-Education-Sector.pdf
+21f54f93387e005f291814f267af022d876a1f3428bdba9d0fc68a4781d3f8b2  papers/Optimizing-Stroke-Prediction-Models-for-Real-World-Application-Tackling-Data-Imbalance-Without-Synthetic-Samples.pdf
+07a3b1f747b2884454029bb599a53580f57b828a12f63888c8ca12a2a00f2fd9  papers/Overcoming-Data-Excess-to-Improve-Decision-Making-and-Information-Systems-Plans-for-Organizational-Performance.pdf
+cd46988d75f6edc220b1c79ef2749cd1003bc877fdc32f06d127b91ba4089811  papers/Transforming-Business-Analytics-The-Impact-of-Machine-Learning-on-Performance-Prediction-in-US-Financial-Sectors.pdf
