@@ -1,4 +1,4 @@
-# My Papers — Nafiz Imtiaz
+# My Papers — Nafiz Imtiaz (NOT UPDATED)
 
 This repository provides a public, organized index of my journal articles, working papers, manuscripts, and conference material. The work spans applied business analytics, artificial intelligence, education and workforce analytics, interoperable decision support, responsible AI governance, transparent reporting, and edge intelligence.
 
